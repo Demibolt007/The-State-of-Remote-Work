@@ -1,4 +1,4 @@
-# The State of Remote Work: A Microsoft Excel & Power BI Analytical Report
+# The State of Remote Work: Wellbeing, Job Satisfaction, Productivity & Workforce Dynamics
 
 
 ![The State of Remote Work](https://github.com/user-attachments/assets/3ff2036e-53eb-4980-83b1-e0cb74e08952)
